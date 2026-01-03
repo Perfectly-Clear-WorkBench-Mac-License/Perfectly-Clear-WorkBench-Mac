@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://insmac.org/uploads/posts/2021-10/clear-workbench-4.png" width="200" alt="Perfectly Clear WorkBench application logo"><br>
- <a href="https://app-quick-app.github.io/.github/PerfectlyClearWorkBench">
+ <a href="https://gnomik-gomik-apps.github.io/.github/PerfectlyClearWorkBench">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Perfectly Clear WorkBench macOS">
  </a><br><br>
  <div align="center">
